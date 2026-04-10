@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1775831539377,
+  "timestamp": 1775860239667,
   "index": "https://bogdanremuscristian.github.io/gym/index.html",
   "assetGroups": [
     {
@@ -21,13 +21,15 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://bogdanremuscristian.github.io/gym/dark-theme.css",
         "https://bogdanremuscristian.github.io/gym/favicon.ico",
         "https://bogdanremuscristian.github.io/gym/index.html",
-        "https://bogdanremuscristian.github.io/gym/main.e4ff06a865912c14.js",
+        "https://bogdanremuscristian.github.io/gym/ligth-theme.css",
+        "https://bogdanremuscristian.github.io/gym/main.c628646ad69ef200.js",
         "https://bogdanremuscristian.github.io/gym/manifest.webmanifest",
         "https://bogdanremuscristian.github.io/gym/polyfills.ca6d97bb95f2649a.js",
         "https://bogdanremuscristian.github.io/gym/runtime.c6e6810848589376.js",
-        "https://bogdanremuscristian.github.io/gym/styles.8f2dc0c15521a552.css"
+        "https://bogdanremuscristian.github.io/gym/styles.0354c41ca2b6ec88.css"
       ],
       "patterns": []
     },
@@ -219,10 +221,12 @@
     "https://bogdanremuscristian.github.io/gym/assets/squat-back2.gif": "3e5ac8bbca57b2bb9772a2b3afce6ff86c2bce54",
     "https://bogdanremuscristian.github.io/gym/assets/squat-back3.gif": "d6ffdda247b9a9427380946f4f7c977fe4a7764e",
     "https://bogdanremuscristian.github.io/gym/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
+    "https://bogdanremuscristian.github.io/gym/dark-theme.css": "b8fb899dee8942b966fc46d79cd37491d5495f93",
     "https://bogdanremuscristian.github.io/gym/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://bogdanremuscristian.github.io/gym/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "https://bogdanremuscristian.github.io/gym/index.html": "a02b4e917105cb0480784f05a8148ba2eaa3f58f",
-    "https://bogdanremuscristian.github.io/gym/main.e4ff06a865912c14.js": "a756077ced08e60b63d13726ab92edf77c5390f2",
+    "https://bogdanremuscristian.github.io/gym/index.html": "cae0973f80564596e70c91baf9b8b2239e70ff31",
+    "https://bogdanremuscristian.github.io/gym/ligth-theme.css": "ae28fdd9dee654251a3ec035c7477f89a92d672e",
+    "https://bogdanremuscristian.github.io/gym/main.c628646ad69ef200.js": "d2a6b643705b64b27d38770c94c196ebf3dabc13",
     "https://bogdanremuscristian.github.io/gym/manifest.webmanifest": "f8ff96d56d0645d1083a4b3fcb2cfb2750f7d160",
     "https://bogdanremuscristian.github.io/gym/polyfills.ca6d97bb95f2649a.js": "18668e0a1208927b42f95e484b031e097f7b74f4",
     "https://bogdanremuscristian.github.io/gym/primeicons.19e14e488f5edc90.svg": "a07ae39027c1a780b42fd82fad7575c2924d9d28",
@@ -230,7 +234,7 @@
     "https://bogdanremuscristian.github.io/gym/primeicons.7f7722745590608a.woff": "361e3af71bb4e515feead2f787348a92a5527158",
     "https://bogdanremuscristian.github.io/gym/primeicons.e1a53edb6ea00325.woff2": "837c1279b6af9d297f34fdb43e6fcc9206a79f32",
     "https://bogdanremuscristian.github.io/gym/runtime.c6e6810848589376.js": "80fa5b0f361a33209e369a2f2f9e45c7a8e3685f",
-    "https://bogdanremuscristian.github.io/gym/styles.8f2dc0c15521a552.css": "8eb73c3ab80b03716988d94a6bfa5964cfd0fdee"
+    "https://bogdanremuscristian.github.io/gym/styles.0354c41ca2b6ec88.css": "ba713bf8ea06b9c00123b04cd57b3e6298a317a1"
   },
   "navigationUrls": [
     {
