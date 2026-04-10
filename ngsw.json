@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1775860239667,
+  "timestamp": 1775860922932,
   "index": "https://bogdanremuscristian.github.io/gym/index.html",
   "assetGroups": [
     {
@@ -25,7 +25,7 @@
         "https://bogdanremuscristian.github.io/gym/favicon.ico",
         "https://bogdanremuscristian.github.io/gym/index.html",
         "https://bogdanremuscristian.github.io/gym/ligth-theme.css",
-        "https://bogdanremuscristian.github.io/gym/main.c628646ad69ef200.js",
+        "https://bogdanremuscristian.github.io/gym/main.387cb4c5b81f0b87.js",
         "https://bogdanremuscristian.github.io/gym/manifest.webmanifest",
         "https://bogdanremuscristian.github.io/gym/polyfills.ca6d97bb95f2649a.js",
         "https://bogdanremuscristian.github.io/gym/runtime.c6e6810848589376.js",
@@ -224,9 +224,9 @@
     "https://bogdanremuscristian.github.io/gym/dark-theme.css": "b8fb899dee8942b966fc46d79cd37491d5495f93",
     "https://bogdanremuscristian.github.io/gym/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://bogdanremuscristian.github.io/gym/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "https://bogdanremuscristian.github.io/gym/index.html": "cae0973f80564596e70c91baf9b8b2239e70ff31",
+    "https://bogdanremuscristian.github.io/gym/index.html": "8ff34f8b85835422d60410d06be21f50241ccfeb",
     "https://bogdanremuscristian.github.io/gym/ligth-theme.css": "ae28fdd9dee654251a3ec035c7477f89a92d672e",
-    "https://bogdanremuscristian.github.io/gym/main.c628646ad69ef200.js": "d2a6b643705b64b27d38770c94c196ebf3dabc13",
+    "https://bogdanremuscristian.github.io/gym/main.387cb4c5b81f0b87.js": "d8764e50dadfc050c3a2bab93e13426a7e8e6ae4",
     "https://bogdanremuscristian.github.io/gym/manifest.webmanifest": "f8ff96d56d0645d1083a4b3fcb2cfb2750f7d160",
     "https://bogdanremuscristian.github.io/gym/polyfills.ca6d97bb95f2649a.js": "18668e0a1208927b42f95e484b031e097f7b74f4",
     "https://bogdanremuscristian.github.io/gym/primeicons.19e14e488f5edc90.svg": "a07ae39027c1a780b42fd82fad7575c2924d9d28",
