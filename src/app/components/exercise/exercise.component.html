@@ -1,0 +1,13 @@
+<p-galleria #galleria [value]="exercise.images" [circular]="true" [showItemNavigators]="false" [showThumbnails]="false"
+  containerClass="full-height-galleria" [(activeIndex)]="activeIndex" (touchstart)="onTouchStart($event)"
+  (touchend)="onTouchEnd($event)" [showIndicators]="true">
+  <ng-template pTemplate="item" let-item>
+    <img [src]="'./assets/' + item" style="width: 100%;" />
+  </ng-template>
+  <ng-template pTemplate="caption" let-item>
+    <h4 style="margin-bottom: .5rem; color: #ffffff;">
+      {{ exercise.name }}
+    </h4>
+    <p>{{ exercise.sets }} x {{ exercise.reps }}</p>
+  </ng-template>
+</p-galleria>

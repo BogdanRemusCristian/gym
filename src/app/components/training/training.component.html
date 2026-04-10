@@ -1,0 +1,13 @@
+<div class="container" (click)="showTraining = true">
+  <div class="details">
+    <img [src]="'./assets/' + training.exercises[0].images[0]" alt="Training preview" class="image">
+    <span class="name">{{ training.name }}</span>
+  </div>
+  <span class="number">{{ training.exercises.length }}</span>
+</div>
+
+<p-sidebar [(visible)]="showTraining" position="right" [fullScreen]="true" class="no-footer no-header">
+  <ng-template pTemplate="headless">
+    <app-exercises [exercises]="training.exercises"></app-exercises>
+  </ng-template>
+</p-sidebar>

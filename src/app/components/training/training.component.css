@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  height: 100px;
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+.name {
+  margin-left: 20px;
+  font-size: 40pt;
+}
+
+.number {
+  height: 40px;
+  width: 40px;
+  font-size: 20pt;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  padding-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

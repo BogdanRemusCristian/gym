@@ -1,1 +1,63 @@
-/* You can add global styles to this file, and also import other style files */
+.p-sidebar {
+  padding: 0 !important;
+}
+
+.p-sidebar .p-sidebar-content {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.p-sidebar .p-sidebar-header {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.no-footer .p-sidebar-footer {
+  display: none !important;
+}
+
+.no-header .p-sidebar-header {
+  display: none !important;
+}
+
+.full-height-galleria {
+  height: 100vh !important;
+  width: 100vw;
+}
+
+.full-height-galleria .p-galleria-content {
+  height: 100vh !important;
+}
+
+.full-height-galleria .p-galleria-item-wrapper {
+  height: 100vh !important;
+}
+
+.full-height-galleria .p-galleria-item-container {
+  height: 100% !important;
+}
+
+.full-height-galleria .p-galleria-item {
+  height: 100% !important;
+  align-items: flex-start !important;
+}
+
+.full-height-galleria img {
+  width: 100% !important;
+  object-fit: contain;
+}
+
+.caption-bottom .p-galleria-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+}
+
+.caption-bottom .p-galleria-item-wrapper {
+  position: relative;
+  height: 100%;
+}
