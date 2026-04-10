@@ -10,6 +10,7 @@ import { Galleria } from 'primeng/galleria';
 export class ExerciseComponent {
   @ViewChild(Galleria, { static: true }) galleria: Galleria;
   @Input() exercise: Exercise = null;
+  @Input() index: number = null;
   private _activeIndex: number = 0;
 
   touchStartX = 0;

@@ -11,3 +11,7 @@
     <app-exercises [exercises]="training.exercises"></app-exercises>
   </ng-template>
 </p-sidebar>
+
+<div class="close-button" *ngIf="showTraining">
+  <p-button icon="pi pi-arrow-circle-left" (onClick)="showTraining = false" />
+</div>
